@@ -11,7 +11,7 @@ B.Eng. student in **Computer Science and Technology** at [South China University
 ![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guts-yang&theme=github)
 ![Most used language by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guts-yang&theme=github)
 
-**💻 CS student / 🛠️ Backend intern / 🧠 Applied ML (RAG & multi-agent)**
+**💻 CS student / 🛠️ Backend intern / 🧠 Applied ML (RAG & multi-agent) / Machine Unlearning**
 
 ---
 
