@@ -6,11 +6,6 @@ B.Eng. student in **Computer Science and Technology** at [South China University
 
 ---
 
-![GitHub profile summary for guts-yang](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guts-yang&theme=github)
-
-![Repositories per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guts-yang&theme=github)
-![Most used language by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guts-yang&theme=github)
-
 **💻 CS student / 🛠️ Backend intern / 🧠 Applied ML (RAG & multi-agent) / Machine Unlearning**
 
 ---
@@ -24,7 +19,17 @@ B.Eng. student in **Computer Science and Technology** at [South China University
 - 🌱 Building RAG and multi-agent systems (GridTrace routing, LangGraph supervisor agents)
 - 📫 LinkedIn: [chenyang-liao](https://www.linkedin.com/in/chenyang-liao-7a79b6431) · Email: [202330451061@mail.scut.edu.cn](mailto:202330451061@mail.scut.edu.cn)
 
-**Stack:** Go · C++ · Java · Python · MySQL · Kafka · gRPC / tRPC · FastAPI · Vue
+**Stack**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![gRPC / tRPC](https://img.shields.io/badge/gRPC%20%2F%20tRPC-244c5a?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 ---
 
