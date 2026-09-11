@@ -41,23 +41,23 @@ Highlight reel. Full CV is on [LinkedIn](https://www.linkedin.com/in/chenyang-li
 
 ### Software Engineering Intern · [Tencent](https://www.tencent.com/) Rainbow Configuration Center (Qicaishi)
 
-**May 2026 – Aug 2026**
+**May 2026 – Nov 2026**
 
 Rainbow is a Go + tRPC + MySQL + Kafka configuration platform with multi-type configs, auth, multi-protocol delivery, release versioning, and plugin extensions. It handles on the order of **100 million configuration changes per day**.
 
-- Built **AI Review**, a sidecar review module decoupled from the main repo, proto design, and the AI service, for sensitive configuration audits.
-- Designed an onboarding **Skill** for new engineers; typical ramp-up dropped from about two weeks to **under five days**.
+- Built **AI Review** as a sidecar (main repo / proto / AI module decoupled) so sensitive config changes can be reviewed **without touching the serving path**.
+- Built an onboarding **Skill**: ramp-up **~2 weeks → under 5 days (~64%)**; **department award (~20% win rate)** and reused by the team.
 
 
 
-### AI Efficiency Intern · [BRAVAT (China)](https://www.bravat.com/) 
+### Forward Deployed Engineer (FDE) · [BRAVAT (China)](https://www.bravat.com/)
 
 **Mar 2026 – May 2026** · AI Efficiency Team
 
-Designed two internal products estimated to save the company **RMB 1M+ per year**.
+Designed and shipped 0-to-1 AI products for procurement and bidding; **10–20** procurement/business users in steady use, estimated **RMB 1M+/year**.
 
-- **Purchase push-order system:** upload Excel push-order data, auto-compute results, and edit them collaboratively in the cloud.
-- **Intelligent bid-document assembler:** upload tender files, parse technical-bid templates, assemble materials as components, and manage them in one cloud library.
+- **Purchase push-order system:** Excel upload, auto-compute, and **multi-user live edit** in the cloud (replaces offline handoff).
+- **Intelligent bid-document assembler:** upload tenders, parse technical-bid templates via **DeepSeek-V4-flash**, then assemble components from a shared material library.
 
 
 
