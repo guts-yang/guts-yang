@@ -35,9 +35,25 @@ B.Eng. student in **Computer Science and Technology** at [South China University
 
 
 
-## Experience
+## Open source
 
-Highlight reel.
+Curated projects I authored. Role is **author / maintainer** unless noted.
+
+
+| Project                                                                                           | What it is                                                                                                                                                | Stack                            |
+| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [OpsWarden](https://github.com/guts-yang/OpsWarden)                                               | RAG ops assistant (course project ranked **1 / 77**): GridTrace two-stage routing (vector-space grids, L1 coarse / L2 fine), then answer or open a ticket | Python, FastAPI, Vue 3, pgvector |
+| [stock_predictor](https://github.com/guts-yang/stock_predictor)                                   | Deep-learning stock price forecasts (LSTM) on Tushare data, with visualization for a five-day horizon                                                     | Python, LSTM                     |
+| [Fund-Performance-Tracking-System](https://github.com/guts-yang/Fund-Performance-Tracking-System) | Real-time A-share fund NAV tracking: valuation, holdings, returns charts, Redis-backed                                                                    | FastAPI, Vue, Redis              |
+| [llm_wiki](https://github.com/guts-yang/llm_wiki)                                                 | Desktop app that incrementally builds a persistent wiki from your documents instead of one-shot RAG                                                       | TypeScript                       |
+| [AI-Quant-Screener](https://github.com/guts-yang/AI-Quant-Screener)                               | Local A-share screener and research-report prototype with a multi-agent workflow                                                                          | Vue 3, FastAPI                   |
+
+
+---
+
+
+
+## Experience
 
 ### Software Engineering Intern · [Tencent](https://www.tencent.com/) Rainbow Configuration Center (Qicaishi)
 
@@ -80,23 +96,6 @@ Rural multi-agent decision system: users design village construction plans under
 
 - Hierarchical **LangGraph** setup: one supervisor agent coordinates **eight** specialist agents.
 - Implemented the **Supervisor** agent and inter-agent communication.
-
----
-
-
-
-## Open source
-
-Curated projects I authored. Role is **author / maintainer** unless noted.
-
-
-| Project                                                                                           | What it is                                                                                                                                                | Stack                            |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [OpsWarden](https://github.com/guts-yang/OpsWarden)                                               | RAG ops assistant (course project ranked **1 / 77**): GridTrace two-stage routing (vector-space grids, L1 coarse / L2 fine), then answer or open a ticket | Python, FastAPI, Vue 3, pgvector |
-| [stock_predictor](https://github.com/guts-yang/stock_predictor)                                   | Deep-learning stock price forecasts (LSTM) on Tushare data, with visualization for a five-day horizon                                                     | Python, LSTM                     |
-| [Fund-Performance-Tracking-System](https://github.com/guts-yang/Fund-Performance-Tracking-System) | Real-time A-share fund NAV tracking: valuation, holdings, returns charts, Redis-backed                                                                    | FastAPI, Vue, Redis              |
-| [llm_wiki](https://github.com/guts-yang/llm_wiki)                                                 | Desktop app that incrementally builds a persistent wiki from your documents instead of one-shot RAG                                                       | TypeScript                       |
-| [AI-Quant-Screener](https://github.com/guts-yang/AI-Quant-Screener)                               | Local A-share screener and research-report prototype with a multi-agent workflow                                                                          | Vue 3, FastAPI                   |
 
 
 ---
