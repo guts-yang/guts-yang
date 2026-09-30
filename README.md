@@ -1,4 +1,4 @@
-# Hi there, I'm Chenyang Liao 👋
+# Hi there, I'm guts-yang 👋
 
 B.Eng. student in **Computer Science and Technology** at [South China University of Technology](https://www.scut.edu.cn/) (SCUT), Guangzhou (Sep 2023 – Jul 2027). I work on **cloud configuration systems**, **RAG**, **Machine Unlearning** and **LLM multi-agent** products.
 
@@ -17,7 +17,7 @@ B.Eng. student in **Computer Science and Technology** at [South China University
 - 🎓 **South China University of Technology** — Computer Science and Technology, undergraduate, Guangzhou
 - 🔭 Recently interned at **Tencent Rainbow (Qicaishi)** on online cloud configuration serving WeChat Pay, Tencent Meeting, WeCom, QQ, and Tencent Cloud
 - 🌱 Building RAG and multi-agent systems (GridTrace routing, LangGraph supervisor agents)
-- 📫 LinkedIn: [chenyang-liao](https://www.linkedin.com/in/chenyang-liao-7a79b6431) · Email: [202330451061@mail.scut.edu.cn](mailto:202330451061@mail.scut.edu.cn)
+- 📫 GitHub: [guts-yang](https://github.com/guts-yang)
 
 **Stack**
 
@@ -37,7 +37,7 @@ B.Eng. student in **Computer Science and Technology** at [South China University
 
 ## Experience
 
-Highlight reel. Full CV is on [LinkedIn](https://www.linkedin.com/in/chenyang-liao-7a79b6431).
+Highlight reel.
 
 ### Software Engineering Intern · [Tencent](https://www.tencent.com/) Rainbow Configuration Center (Qicaishi)
 
@@ -105,8 +105,6 @@ Curated projects I authored. Role is **author / maintainer** unless noted.
 
 ## Research
 
-OpenReview: [~Chenyang_Liao3](https://openreview.net/profile?id=~Chenyang_Liao3)
-
 GridTrace routing used in OpsWarden follows [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2402.00751) (arXiv:2402.00751).
 
 ---
@@ -115,7 +113,4 @@ GridTrace routing used in OpsWarden follows [Corrective Retrieval Augmented Gene
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenyang-liao-7a79b6431)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guts-yang)
-[![OpenReview](https://img.shields.io/badge/OpenReview-8C1A10?style=for-the-badge&logo=openaccess&logoColor=white)](https://openreview.net/profile?id=~Chenyang_Liao3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:202330451061@mail.scut.edu.cn)
